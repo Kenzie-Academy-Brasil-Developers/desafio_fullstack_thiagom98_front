@@ -25,6 +25,7 @@ No diretório do projeto, você pode rodar:
 - Constrói o aplicativo para produção na pasta build.
 
 # Instruções para rodar a aplicação
+- utilizar node a partir da versão 18.14.0
 
 - rodar o comando npm i
 
