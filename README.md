@@ -23,3 +23,11 @@ No diretório do projeto, você pode rodar:
 
 ` npm run build ` 
 - Constrói o aplicativo para produção na pasta build.
+
+# Instruções para rodar a aplicação
+
+- rodar o comando npm i
+
+- criar um arquivo .env na raiz do projeto e preenche-lo corretamente, seguindo o .env.example
+
+- rodar o comando npm start
