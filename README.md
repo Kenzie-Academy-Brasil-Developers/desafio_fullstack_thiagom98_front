@@ -25,6 +25,8 @@ No diretório do projeto, você pode rodar:
 - Constrói o aplicativo para produção na pasta build.
 
 # Instruções para rodar a aplicação
+- clone o repositório utilizando o comando git clone git@github.com:Kenzie-Academy-Brasil-Developers/desafio_fullstack_thiagom98_front.git
+
 - utilizar node a partir da versão 18.14.0
 
 - rodar o comando npm i
@@ -32,3 +34,5 @@ No diretório do projeto, você pode rodar:
 - criar um arquivo .env na raiz do projeto e preenche-lo corretamente, seguindo o .env.example
 
 - rodar o comando npm start
+
+- para o funcionamento completo da aplicação, não esquece de botar o mesmo PORT tanto no back_end quanto no front_end, além de rodar as duas aplicações ao mesmo tempo
